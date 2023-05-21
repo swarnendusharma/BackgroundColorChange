@@ -1,3 +1,3 @@
 # BackgroundColorChange
- It is bavkground changing and displaying its name
+ It is background changing and displaying its name
 
